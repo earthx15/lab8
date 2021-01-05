@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME:นายคนธกานต์ ฟูคำ
+# STUDENT ID:630610719
